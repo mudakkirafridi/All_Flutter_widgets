@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/showdialog-screen.dart';
+import 'package:flutter_widgets/showdialog-widget.dart';
 
 void main() {
   runApp(const MyApp());
