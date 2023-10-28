@@ -40,7 +40,6 @@ class _MyWidgetState extends State<ShowDialogWidget> {
                                   },
                                   child: const Text('No'))
                             ],
-                            shape: const BeveledRectangleBorder(),
                           ),
                         );
                       });
