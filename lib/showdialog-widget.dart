@@ -14,7 +14,7 @@ class _MyWidgetState extends State<ShowDialogWidget> {
     return Scaffold(
         appBar: AppBar(
           centerTitle: true,
-          title: const Text('Widget Testing Screen'),
+          title: const Text('showdialog Screen'),
         ),
         body: Center(
             child: ElevatedButton(
